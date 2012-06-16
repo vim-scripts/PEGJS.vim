@@ -1,0 +1,7 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=4101
+
+Syntax highlighting for peg-js files.
+
+Details about PEG.js here: http://pegjs.majda.cz/
+
+Code repository for this script: https://github.com/alunny/pegjs-vim
